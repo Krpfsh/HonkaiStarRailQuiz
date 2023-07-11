@@ -6,11 +6,13 @@ ________________
  Это простой и легкий тест по игре Honkai: Star Rail. В тесте представлены вопросы по игре, сюжету и лору персонажей, названия и имена.
 
 ## Main Menu
-![Main menu](https://github.com/Krpfsh/DoodleDuck/blob/main/Screenshots/MainMenu.png)
+![Main menu](https://github.com/Krpfsh/HonkaiStarRailQuiz/blob/main/Gameplay%20Screenshots/MainMenu.png)
 
-## Shop Menu
-![Main menu](https://github.com/Krpfsh/DoodleDuck/blob/main/Screenshots/Shop.png)
+
 
 ## Gameplay screenshots
-![Gameplay screenshots](https://github.com/Krpfsh/DoodleDuck/blob/main/Screenshots/Game.png)
-![Gameplay screenshots](https://github.com/Krpfsh/DoodleDuck/blob/main/Screenshots/Game2.png)
+![Gameplay screenshots](https://github.com/Krpfsh/HonkaiStarRailQuiz/blob/main/Gameplay%20Screenshots/Game1.png)
+![Gameplay screenshots](https://github.com/Krpfsh/HonkaiStarRailQuiz/blob/main/Gameplay%20Screenshots/Game2.png)
+
+## Gameover
+![Gameover](https://github.com/Krpfsh/HonkaiStarRailQuiz/blob/main/Gameplay%20Screenshots/gameover.png)
